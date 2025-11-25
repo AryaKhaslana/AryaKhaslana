@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="[PASTE_LINK_GIF_YANG_TADI_DISINI](https://github.com/user-attachments/assets/5d65bad8-957c-481b-9556-5e1dd389c4c4)" width="100%" />
+  <img src="https://github.com/user-attachments/assets/5d65bad8-957c-481b-9556-5e1dd389c4c4" width="100%" />
 </div>!
 
 
