@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5d65bad8-957c-481b-9556-5e1dd389c4c4" width="600" />
 </div>
