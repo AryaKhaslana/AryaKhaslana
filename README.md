@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/5d65bad8-957c-481b-9556-5e1dd389c4c4" width="500" />
-</div>!
-
+  <img src="https://github.com/user-attachments/assets/5d65bad8-957c-481b-9556-5e1dd389c4c4" width="1000" />
+</div>
 
 # 💫 About Me:
 A student smk telkom sidoarjo<br>RIght now i learn about javascript and php<br>I always learn more and try to be better than days ago
