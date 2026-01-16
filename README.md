@@ -10,27 +10,6 @@ I'm currently studying at SMK Telkom Sidoarjo. My goal is to continuously learn 
 
 [![My Skills](https://skillicons.dev/icons?i=laravel,react,php,html,css,mysql,git,docker.javascript.&perline=9)](https://skillicons.dev)
 
-## Top Projects
-
-- [E-commerce-Laravel](https://github.com/AryaKhaslana/E-commerce-Laravel) - Laravel + React application for e-commerce. ⭐ 0 Stars | Language: Blade | Forks: 0 | Issues: 0
-- [Kantinku](https://github.com/AryaKhaslana/Kantinku-app) - Secure backend protocol for logging vulnerabilities and bug reports. Lightweight & Fast. ⭐ 0 Stars | Language: Python | Forks: 0 | Issues: 0
-- [Collabwithfatih](https://github.com/AryaKhaslana/Collabwithfatih) - My personal portfolio built with React. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Issues: 0
-
-## GitHub Stats
-
-🌟 Public Repositories: 22  | 👥 Followers: 7 | 🔗 Following: 10
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaKhaslana&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed to [E-commerce-Laravel](https://github.com/AryaKhaslana/E-commerce-Laravel) on Jan 15, 2026.
-- Created branch 'master' for [bug-sentinel-api](https://github.com/AryaKhaslana/bug-sentinel-api) on Jan 15, 2026.
-- Pushed to [Portfolio-React](https://github.com/AryaKhaslana/Portfolio-React) on Jan 12, 2026.
-
-## Latest Blog Posts
-
-Check out my blog for insights and articles on technology and programming! [My Blog](https://aryaawisesa.my.id)
-
 ## ASCII Art
 
 ```
