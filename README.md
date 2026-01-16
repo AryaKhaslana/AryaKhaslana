@@ -45,15 +45,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=AryaKhaslana&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AryaKhaslana/AryaKhaslana/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryaKhaslana/AryaKhaslana/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AryaKhaslana/AryaKhaslana/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 I'm Arya Khaslana, a passionate software developer from Indonesia. I'm on a journey to improve my skills and create impactful projects that make a difference!
 
