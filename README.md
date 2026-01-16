@@ -8,7 +8,7 @@ I'm currently studying at SMK Telkom Sidoarjo. My goal is to continuously learn 
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,php,html,css,mysql,git,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,php,html,css,mysql,git,docker.javascript&perline=9)](https://skillicons.dev)
 
 ## Top Projects
 
