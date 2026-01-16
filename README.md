@@ -1,25 +1,43 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/5d65bad8-957c-481b-9556-5e1dd389c4c4" width="600" />
-</div>
+## Hi there! 👋
 
-# 💫 About Me:
-A student smk telkom sidoarjo<br>RIght now i learn about javascript and php<br>I always learn more and try to be better than days ago
+I'm Arya Khaslana, a passionate software developer from Indonesia. I'm on a journey to improve my skills and create impactful projects that make a difference!
 
+## About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Br4jaa) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KomariGondes) 
+I'm currently studying at SMK Telkom Sidoarjo. My goal is to continuously learn and enhance my programming skills. I enjoy working with various technologies and collaborating on projects that challenge me.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AryaKhaslana&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AryaKhaslana&theme=noctis_minimus&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKhaslana&theme=noctis_minimus&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Skills & Technologies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AryaKhaslana&theme=noctis_minimus&no-frame=false&no-bg=true&margin-w=4)
+laravel,react,php,html,css,mysql,git,docker
 
----
-[![](https://visitcount.itsvg.in/api?id=AryaKhaslana&icon=0&color=0)](https://visitcount.itsvg.in)
+## Top Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- [E-commerce-Laravel](https://github.com/AryaKhaslana/E-commerce-Laravel) - Laravel + React application for e-commerce. ⭐ 0 Stars | Language: Blade | Forks: 0 | Issues: 0
+- [bug-sentinel-api](https://github.com/AryaKhaslana/bug-sentinel-api) - Secure backend protocol for logging vulnerabilities and bug reports. Lightweight & Fast. ⭐ 0 Stars | Language: Python | Forks: 0 | Issues: 0
+- [Portfolio-React](https://github.com/AryaKhaslana/Portfolio-React) - My personal portfolio built with React. ⭐ 0 Stars | Language: JavaScript | Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+🌟 Public Repositories: 22  | 👥 Followers: 7 | 🔗 Following: 10
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaKhaslana&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed to [E-commerce-Laravel](https://github.com/AryaKhaslana/E-commerce-Laravel) on Jan 15, 2026.
+- Created branch 'master' for [bug-sentinel-api](https://github.com/AryaKhaslana/bug-sentinel-api) on Jan 15, 2026.
+- Pushed to [Portfolio-React](https://github.com/AryaKhaslana/Portfolio-React) on Jan 12, 2026.
+
+## Latest Blog Posts
+
+Check out my blog for insights and articles on technology and programming! [My Blog](https://aryaawisesa.my.id)
+
+## ASCII Art
+
+```
+     _                     _  ___               _                   
+    / \   _ __ _   _  __ _| |/ / |__   __ _ ___| | __ _ _ __   __ _ 
+   / _ \ | '__| | | |/ _` | ' /| '_ \ / _` / __| |/ _` | '_ \ / _` |
+  / ___ \| |  | |_| | (_| | . \| | | | (_| \__ \ | (_| | | | | (_| |
+ /_/   \_\_|   \__, |\__,_|_|\_\_| |_|\__,_|___/_|\__,_|_| |_|\__,_|
+               |___/                                                
+```
