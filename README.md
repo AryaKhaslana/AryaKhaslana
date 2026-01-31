@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 ###
 
@@ -50,11 +50,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AryaKhaslana/AryaKhaslana/output/pacman-contribution-graph.svg">
 </picture>
 
-I'm Arya Khaslana, a passionate software developer from Indonesia. I'm on a journey to improve my skills and create impactful projects that make a difference!
+I'm Arya Khaslana, a passionate website developer and cybersec from Indonesia. I'm on a journey to improve my skills and create impactful projects that make a difference!
 
 ## About Me
 
 I'm currently studying at SMK Telkom Sidoarjo. My goal is to continuously learn and enhance my programming skills. I enjoy working with various technologies and collaborating on projects that challenge me.
+
+I'm currently open for collaboration, study together, and improve together
+
+Leave a critic for improve more my skill, thank you :>
 
 ## ASCII Art
 
