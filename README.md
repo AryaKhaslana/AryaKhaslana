@@ -9,26 +9,22 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
 
 </div>
-
----
+<br><br><br>
 
 <div align="center">
   <img src="./banner.svg" alt="Animated Terminal Banner" width="100%" />
 </div>
-
----
+<br><br><br>
 
 <p align="center">
   <img src="./stack.svg" alt="Tech stack" width="840">
 </p>
-
----
+<br><br><br>
 
 <div align="center">
   <img src="./dashboard.svg" alt="System Architecture Dashboard" width="100%" />
 </div>
-
----
+<br><br><br>
 
 ### 📈 Contribution Pacman
 
@@ -37,15 +33,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AryaKhaslana/AryaKhaslana/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AryaKhaslana/AryaKhaslana/output/pacman-contribution-graph.svg">
 </picture>
-
----
+<br><br><br>
 
 <div align="center">
   <img src="./bento.svg" alt="System Architecture Dashboard" width="100%" />
 </div>
-
----
+<br><br><br>
 
 <div align="center">
   <img src="./footer.svg" alt="System Architecture Dashboard" width="100%" />
 </div>
+<br><br><br>
