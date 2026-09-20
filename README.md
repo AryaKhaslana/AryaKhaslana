@@ -18,19 +18,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-I'm Arya, currently a Class 12 student at **SMK Telkom Sidoarjo**, based in Indonesia. I lead a team in my school's programming division (DTP) and compete in external app development competitions 
-
-I mostly work as a **fullstack/backend lead**, but I've got my hands in everything from web dev, interactive UI/UX, to cybersecurity basics. 
-
-- 🌱 Currently leveling up: backend architecture & cybersecurity
-- 💬 Ask me about: Next.js, Laravel, Supabase, React
-- 📌 Open for collaboration, study together, and improving together
-- ⚡ Fun fact: I read critique as fuel, not damage — feel free to roast my code
-
----
-
 <p align="center">
   <img src="./stack.svg" alt="Tech stack" width="840">
 </p>
