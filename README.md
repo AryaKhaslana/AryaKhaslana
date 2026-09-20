@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.svg" alt="Animated Terminal Banner" width="100%" />
+  <img src="./header1.svg" alt="Animated Terminal Banner" width="100%" />
 </div>
 <br><br><br>
 
@@ -13,10 +13,6 @@
 </p>
 <br><br><br>
 
-<div align="center">
-  <img src="./dashboard.svg" alt="System Architecture Dashboard" width="100%" />
-</div>
-<br><br><br>
 
 ### 📈 Contribution Pacman
 
