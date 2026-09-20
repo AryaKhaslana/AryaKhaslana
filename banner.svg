@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
+  <defs>
+    <style>
+      @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+      @keyframes glow { 0%, 100% { filter: drop-shadow(0 0 2px #00FF00); } 50% { filter: drop-shadow(0 0 8px #00FF00); } }
+      @keyframes float { 0%, 100% { transform: translateY(0px); } 50% { transform: translateY(-8px); } }
+      @keyframes dash { to { stroke-dashoffset: -40; } }
+      @keyframes pulseText { 0%, 100% { opacity: 0.7; } 50% { opacity: 1; } }
+      
+      .bg { fill: #0D1117; }
+      .grid { stroke: #161b22; stroke-width: 1.5; }
+      .window { fill: #010409; stroke: #30363d; stroke-width: 2; rx: 8; }
+      .btn-close { fill: #ff5f56; } .btn-min { fill: #ffbd2e; } .btn-max { fill: #27c93f; }
+      
+      .text-green { font-family: 'Courier New', monospace; fill: #00FF00; font-size: 16px; font-weight: bold; }
+      .text-cyan { font-family: 'Courier New', monospace; fill: #00FFFF; font-size: 14px; font-weight: bold; }
+      .text-white { font-family: 'Courier New', monospace; fill: #c9d1d9; font-size: 14px; }
+      .text-gray { font-family: 'Courier New', monospace; fill: #8b949e; font-size: 14px; }
+      
+      .cursor { fill: #00FF00; animation: blink 1s step-end infinite; }
+      .circuit { stroke: #00FF00; stroke-width: 2; fill: none; stroke-dasharray: 8 8; animation: dash 2s linear infinite; opacity: 0.6; }
+      .circuit-cyan { stroke: #00FFFF; stroke-width: 2; fill: none; stroke-dasharray: 8 8; animation: dash 3s linear infinite reverse; opacity: 0.6; }
+    </style>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" class="grid"/>
+    </pattern>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="100%" height="100%" class="bg" />
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <!-- Animated Cyber Circuits -->
+  <path d="M 0 40 L 120 40 L 150 70 L 220 70" class="circuit" />
+  <path d="M 800 210 L 680 210 L 650 180 L 580 180" class="circuit-cyan" />
+  <path d="M 0 210 L 50 210 L 80 180 L 150 180" class="circuit-cyan" />
+  <path d="M 800 40 L 750 40 L 720 70 L 650 70" class="circuit" />
+
+  <!-- Floating Hologram Terminal -->
+  <g style="animation: float 4s ease-in-out infinite;">
+    <!-- Terminal Body -->
+    <rect x="180" y="30" width="460" height="190" class="window" style="filter: drop-shadow(0 10px 15px rgba(0,255,0,0.1));" />
+    
+    <!-- Title Bar Buttons -->
+    <circle cx="200" cy="45" r="5" class="btn-close" />
+    <circle cx="215" cy="45" r="5" class="btn-min" />
+    <circle cx="230" cy="45" r="5" class="btn-max" />
+    <text x="410" y="50" text-anchor="middle" class="text-gray" style="font-size:12px;">brajachaka@K43SD: ~</text>
+    <line x1="180" y1="60" x2="640" y2="60" stroke="#30363d" stroke-width="2" />
+    
+    <!-- Terminal Code Content -->
+    <text x="200" y="90" class="text-green" style="animation: glow 3s infinite;">brajachaka@K43SD:~$</text>
+    <text x="380" y="90" class="text-white">./init_profile.sh</text>
+    
+    <text x="200" y="115" class="text-gray">> Booting Core System...</text>
+    <text x="200" y="135" class="text-gray">> Identity  : <tspan class="text-green" style="animation: pulseText 2s infinite;">Arya Chaka Braja Wisesa</tspan></text>
+    <text x="200" y="155" class="text-gray">> Role      : <tspan class="text-cyan">Backend Dev / CTF Learner</tspan></text>
+    <text x="200" y="175" class="text-gray">> Arsenal   : Express.js, Next.js, Prisma</text>
+    <text x="200" y="195" class="text-green" style="animation: glow 3s infinite;">brajachaka@K43SD:~$</text>
+    
+    <!-- Blinking Cursor -->
+    <rect x="380" y="183" width="8" height="15" class="cursor" />
+  </g>
+</svg>
