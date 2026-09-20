@@ -80,3 +80,118 @@ I mostly work as a **fullstack/backend lead**, but I've got my hands in everythi
 *Leave a critic to improve my skill, thank you :)*
 
 </div>
+
+<div align="center">
+  <!-- Animasi Ngetik Ala Terminal Hacker -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Arya+Chaka+Braja+Wisesa;Backend+Developer+%2F%2F+Linux+Enthusiast;Building+Scalable+APIs;CTF+%26+Cybersecurity+Learner" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <p>
+    <em>I disappear when the project deadline approaches. I run on pure caffeine, terminal ricing, and obscure StackOverflow threads.</em>
+  </p>
+  <p>
+    🎓 Telecommunications Network Engineering @ SMK Telkom Sidoarjo
+  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>⚡ TECHNOLOGY UNIVERSE ⚡</h2>
+  <p>ENGINEERING STACK // SYSTEMS // INFRASTRUCTURE</p>
+</div>
+
+<!-- Tabel Tech Stack Estetik -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="250">
+        <h3>Backend & API</h3>
+        <p>Logics, Services, & Routing</p>
+      </td>
+      <td align="center" width="250">
+        <h3>Database & ORM</h3>
+        <p>Persistence & Modeling</p>
+      </td>
+      <td align="center" width="250">
+        <h3>Frontend & Mobile</h3>
+        <p>Interface & Experience</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=openapiinitiative&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /><br/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Setup & Tools -->
+<div align="center">
+  <h3>💻 Arsenal & Environment</h3>
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kitty_Terminal-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32_IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</div>
+
+<br/>
+<hr>
+<br/>
+
+<!-- Bagian Statistik (Anti Bug) -->
+<div align="center">
+  <h2>📊 SYSTEM OBSERVABILITY</h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/USERNAME_GITHUB_LU">
+    <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_LU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/USERNAME_GITHUB_LU">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_LU&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Current Focus Tracker -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <b>🎯 Current Objective</b><br/>
+        API Routing Optimization & CTF
+      </td>
+      <td align="center" width="200">
+        <b>🎧 Background Noise</b><br/>
+        Taylor Swift - Exile (FLAC)
+      </td>
+      <td align="center" width="200">
+        <b>🏋️ AFK Routine</b><br/>
+        Calisthenics & Push Rank ML
+      </td>
+    </tr>
+  </table>
+</div>
