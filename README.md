@@ -12,6 +12,12 @@
 
 ---
 
+<div align="center">
+  <img src="./banner.svg" alt="Animated Terminal Banner" width="100%" />
+</div>
+
+---
+
 ### 🧑‍💻 About Me
 
 I'm Arya, currently a Class 12 student at **SMK Telkom Sidoarjo**, based in Indonesia. I lead a team in my school's programming division (DTP) and compete in external app development competitions 
