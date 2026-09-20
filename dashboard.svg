@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 320" width="100%" height="320">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&amp;display=swap');
+      
+      .bg { fill: #0D1117; }
+      .grid-dot { fill: #21262D; }
+      .text-base { font-family: 'Fira Code', monospace; fill: #8B949E; font-size: 12px; }
+      .text-neon-green { font-family: 'Fira Code', monospace; fill: #00FF00; font-size: 14px; font-weight: bold; }
+      .text-cyan { font-family: 'Fira Code', monospace; fill: #00FFFF; font-size: 12px; font-weight: bold; }
+      .text-pink { font-family: 'Fira Code', monospace; fill: #FF2A6D; font-size: 10px; font-weight: bold; }
+      .text-title { font-family: 'Fira Code', monospace; fill: #C9D1D9; font-size: 18px; font-weight: 700; letter-spacing: 2px; }
+      
+      /* Animations */
+      @keyframes spin { 100% { transform: rotate(360deg); } }
+      @keyframes spin-reverse { 100% { transform: rotate(-360deg); } }
+      @keyframes data-flow { to { stroke-dashoffset: -100; } }
+      @keyframes pulse-glow { 0%, 100% { filter: drop-shadow(0 0 4px #00FF00); } 50% { filter: drop-shadow(0 0 12px #00FF00); } }
+      @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+      
+      .spin-slow { transform-origin: 130px 160px; animation: spin 15s linear infinite; }
+      .spin-fast-rev { transform-origin: 130px 160px; animation: spin-reverse 8s linear infinite; }
+      .data-line { stroke: #00FFFF; stroke-width: 2; fill: none; stroke-dasharray: 6 12; animation: data-flow 1.5s linear infinite; }
+      .glow-box { fill: #161B22; stroke: #00FF00; stroke-width: 1.5; animation: pulse-glow 3s infinite; rx: 4; }
+      .box-normal { fill: #010409; stroke: #30363D; stroke-width: 1.5; rx: 4; }
+    </style>
+    
+    <!-- Dotted Grid Pattern -->
+    <pattern id="dot-grid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle class="grid-dot" cx="2" cy="2" r="1.5" />
+    </pattern>
+  </defs>
+
+  <!-- Background Layer -->
+  <rect width="100%" height="100%" class="bg" />
+  <rect width="100%" height="100%" fill="url(#dot-grid)" />
+
+  <!-- Top Header Frame -->
+  <path d="M 20 40 L 40 20 L 810 20 L 830 40" fill="none" stroke="#30363D" stroke-width="2" />
+  <text x="425" y="32" text-anchor="middle" class="text-title">A.C.B.W // SYSTEM_ARCHITECTURE</text>
+  <rect x="80" y="27" width="100" height="4" fill="#00FF00" />
+  <rect x="670" y="27" width="40" height="4" fill="#FF2A6D" class="blink" style="animation: blink 2s infinite;" />
+
+  <!-- ==================== LEFT PANEL: IDENTITY CORE ==================== -->
+  <g transform="translate(20, 60)">
+    <rect x="0" y="0" width="220" height="230" class="box-normal" />
+    <text x="110" y="25" text-anchor="middle" class="text-neon-green">CORE_IDENTITY</text>
+    <line x1="20" y1="35" x2="200" y2="35" stroke="#30363D" stroke-width="1" />
+    
+    <!-- Spinning Radar / Core -->
+    <circle cx="110" cy="100" r="45" fill="none" stroke="#30363D" stroke-width="2" />
+    <circle cx="110" cy="100" r="55" fill="none" stroke="#00FFFF" stroke-width="1.5" stroke-dasharray="10 20" class="spin-slow" style="transform-origin: 110px 100px;" />
+    <circle cx="110" cy="100" r="35" fill="none" stroke="#00FF00" stroke-width="2" stroke-dasharray="40 10 10 10" class="spin-fast-rev" style="transform-origin: 110px 100px;" />
+    <text x="110" y="105" text-anchor="middle" class="text-neon-green" style="font-size: 18px;">A.K</text>
+    
+    <!-- Specs (Easter Egg K43SD & Linux Mint) -->
+    <text x="15" y="180" class="text-base">> HOST : ASUS_K43SD</text>
+    <text x="15" y="200" class="text-base">> OS   : LINUX_MINT</text>
+    <text x="15" y="220" class="text-base">> ROLE : BACKEND_DEV</text>
+  </g>
+
+  <!-- ==================== CENTER PANEL: DATA PIPELINE ==================== -->
+  <g transform="translate(260, 60)">
+    <rect x="0" y="0" width="340" height="230" class="box-normal" />
+    <text x="170" y="25" text-anchor="middle" class="text-neon-green">DATA_PIPELINE</text>
+    <line x1="20" y1="35" x2="320" y2="35" stroke="#30363D" stroke-width="1" />
+
+    <!-- Animated Connection Lines -->
+    <path d="M 80 120 L 170 120" class="data-line" />
+    <path d="M 170 120 L 260 120" class="data-line" />
+    
+    <!-- Nodes -->
+    <!-- Node 1: Frontend -->
+    <rect x="20" y="90" width="80" height="60" class="box-normal" />
+    <text x="60" y="115" text-anchor="middle" class="text-cyan">CLIENT</text>
+    <text x="60" y="135" text-anchor="middle" class="text-base" style="font-size:10px;">Next.js</text>
+
+    <!-- Node 2: Backend API (Glowing) -->
+    <rect x="130" y="80" width="80" height="80" class="glow-box" />
+    <text x="170" y="115" text-anchor="middle" class="text-neon-green">API</text>
+    <text x="170" y="135" text-anchor="middle" class="text-base" style="font-size:10px; fill:#fff;">Express.js</text>
+    <text x="170" y="150" text-anchor="middle" class="text-pink" style="font-size:9px;">[ONLINE]</text>
+
+    <!-- Node 3: Database -->
+    <rect x="240" y="90" width="80" height="60" class="box-normal" />
+    <text x="280" y="115" text-anchor="middle" class="text-cyan">DB</text>
+    <text x="280" y="135" text-anchor="middle" class="text-base" style="font-size:10px;">PostgreSQL</text>
+
+    <text x="170" y="210" text-anchor="middle" class="text-base">0x8F4A :: PACKETS_ROUTED</text>
+  </g>
+
+  <!-- ==================== RIGHT PANEL: TELEMETRY (Resource Monitor) ==================== -->
+  <g transform="translate(620, 60)">
+    <rect x="0" y="0" width="210" height="230" class="box-normal" />
+    <text x="105" y="25" text-anchor="middle" class="text-neon-green">TELEMETRY_LOG</text>
+    <line x1="20" y1="35" x2="190" y2="35" stroke="#30363D" stroke-width="1" />
+
+    <!-- Performance Bars (Animated) -->
+    <text x="20" y="70" class="text-base">CPU_LOAD</text>
+    <rect x="90" y="62" width="100" height="8" fill="#161B22" />
+    <rect x="90" y="62" width="60" height="8" fill="#00FFFF">
+      <animate attributeName="width" values="60;90;40;80;60" dur="4s" repeatCount="indefinite" />
+    </rect>
+
+    <text x="20" y="100" class="text-base">RAM_USE</text>
+    <rect x="90" y="92" width="100" height="8" fill="#161B22" />
+    <rect x="90" y="92" width="75" height="8" fill="#00FF00">
+      <animate attributeName="width" values="75;50;85;60;75" dur="3s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Custom K43SD Config Display -->
+    <rect x="20" y="130" width="170" height="80" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+    <text x="30" y="150" class="text-pink">SYSTEM_VARS:</text>
+    <text x="30" y="170" class="text-base">vm.swappiness = 10</text>
+    <text x="30" y="190" class="text-base">cpu_gov = perf</text>
+  </g>
+
+  <!-- Bottom Terminal Status -->
+  <text x="20" y="310" class="text-base" style="font-size: 11px;">> ROOT_ACCESS: GRANTED</text>
+  <text x="830" y="310" class="text-base" text-anchor="end" style="font-size: 11px; fill:#00FFFF;">NETWORK_STATUS: ENCRYPTED_CONNECTION</text>
+</svg>
