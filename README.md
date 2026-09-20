@@ -49,13 +49,8 @@ I mostly work as a **fullstack/backend lead**, but I've got my hands in everythi
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AryaKhaslana&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AryaKhaslana&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=8B5CF6" />
-
+  <img src="./dashboard.svg" alt="System Architecture Dashboard" width="100%" />
 </div>
 
 ---
