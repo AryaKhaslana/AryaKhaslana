@@ -107,11 +107,6 @@
       <text x="30" y="24" text-anchor="middle" class="font-sans tag" style="fill: #A1A1AA;">CLIENT</text>
     </g>
 
-    <!-- Database Node -->
-    <g transform="translate(160, 100)" class="float-slower" style="animation-delay: -2s;">
-      <rect width="60" height="40" rx="6" fill="#18181B" stroke="#27272A" stroke-width="1" />
-      <text x="30" y="24" text-anchor="middle" class="font-sans tag" style="fill: #A1A1AA;">DATA</text>
-    </g>
 
     <!-- Edge Node (Decorative) -->
     <g transform="translate(265, 60)" class="float-slow" style="animation-delay: -1s;">
