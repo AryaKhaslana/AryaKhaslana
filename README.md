@@ -21,6 +21,7 @@
 <p align="center">
   <img src="./stack.svg" alt="Tech stack" width="840">
 </p>
+
 ---
 
 <div align="center">
@@ -39,14 +40,9 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| **[sole-district-monorepo](#)** | Full-stack sneaker e-commerce platform with secure auth & dynamic catalog | Laravel 11, React, Vite |
-| **[Google-Hackathon-Laravert](#)** | Google Hackathon challenge — web app themed "Convertlaravel" | Next.js |
-| **[FICTPACTCUP-Fsociety](#)** | Gamified quest platform connecting vocational students with local UMKM | JavaScript |
-| **[ISCI-OrienaWeb](#)** | Neo-brutalism e-commerce frontend for artisan bakery brand | React, Tailwind, Framer Motion |
+<div align="center">
+  <img src="./bento.svg" alt="System Architecture Dashboard" width="100%" />
+</div>
 
 ---
 
