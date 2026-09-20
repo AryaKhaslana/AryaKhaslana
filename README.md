@@ -47,7 +47,5 @@
 ---
 
 <div align="center">
-
-*Leave a critic to improve my skill, thank you :)*
-
+  <img src="./footer.svg" alt="System Architecture Dashboard" width="100%" />
 </div>
