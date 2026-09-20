@@ -31,22 +31,9 @@ I mostly work as a **fullstack/backend lead**, but I've got my hands in everythi
 
 ---
 
-### 🛠️ Tech Stack
-
-<!-- Ganti list icon di bawah sesuai stack lo. Full list nama icon ada di https://skillicons.dev -->
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=js,html,css,python,php" />
-
-**Frameworks & Libraries**
-<br>
-<img src="https://skillicons.dev/icons?i=react,laravel,nextjs,tailwind" />
-
-**Tools & Platforms**
-<br>
-<img src="https://skillicons.dev/icons?i=supabase,vim,linux,git,figma,notion" />
-
+<p align="center">
+  <img src="./stack.svg" alt="Tech stack" width="840">
+</p>
 ---
 
 <div align="center">
