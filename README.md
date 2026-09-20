@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="./header1.svg" alt="Animated Terminal Banner" width="100%" />
-</div>
-<br><br><br>
 
 <div align="center">
   <img src="./banner.svg" alt="Animated Terminal Banner" width="100%" />
@@ -12,7 +8,6 @@
   <img src="./stack.svg" alt="Tech stack" width="840">
 </p>
 <br><br><br>
-
 
 ### 📈 Contribution Pacman
 
