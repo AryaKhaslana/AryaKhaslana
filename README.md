@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="./banner.svg" alt="Animated Terminal Banner" width="100%" />
 </div>
@@ -26,4 +25,3 @@
 <div align="center">
   <img src="./footer.svg" alt="System Architecture Dashboard" width="100%" />
 </div>
-<br><br><br>
