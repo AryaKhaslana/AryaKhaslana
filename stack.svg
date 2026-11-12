@@ -59,7 +59,7 @@
         <text x="180" y="158" class="val">PostgreSQL · MySql · Prisma · Redis · Supabase </text>
       </g>
       <g class="ln d4">
-        <text x="40" y="190" class="dim">frontend / backend </text>
+        <text x="40" y="190" class="dim">Language</text>
         <text x="180" y="190" class="val">Next.js · Gin · Laravel · React · PHP · Golang · TypeScript </text>
       </g>
       <g class="ln d5">
