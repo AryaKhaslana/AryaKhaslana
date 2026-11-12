@@ -51,25 +51,25 @@
       </g>
 
       <g class="ln d2">
-        <text x="40" y="126" class="dim">runtime</text>
-        <text x="180" y="126" class="val">Node.js · Express</text>
+        <text x="40" y="126" class="dim">languages</text>
+        <text x="180" y="126" class="val">Go (Golang) · TypeScript · JavaScript · PHP · SQL</text>
       </g>
       <g class="ln d3">
-        <text x="40" y="158" class="dim">database</text>
-        <text x="180" y="158" class="val">PostgreSQL · MySql · Prisma · Redis · Supabase </text>
+        <text x="40" y="158" class="dim">frameworks</text>
+        <text x="180" y="158" class="val">Next.js · React · Gin · Express · Laravel</text>
       </g>
       <g class="ln d4">
-        <text x="40" y="190" class="dim">Language</text>
-        <text x="180" y="190" class="val">Next.js · Gin · Laravel · React · PHP · Golang · TypeScript </text>
+        <text x="40" y="190" class="dim">database</text>
+        <text x="180" y="190" class="val">PostgreSQL · Redis · MySQL · Prisma · Supabase</text>
       </g>
       <g class="ln d5">
-        <text x="40" y="222" class="dim">motion</text>
-        <text x="180" y="222" class="val">Framer Motion · Remotion</text>
+        <text x="40" y="222" class="dim">infra</text>
+        <text x="180" y="222" class="val">Docker · Linux · Nginx · Git</text>
       </g>
       <g class="ln d6">
-        <text x="40" y="254" class="dim">infra</text>
-        <text x="180" y="254" class="val">Docker · Git · Nginx · Linux</text>
-        <rect class="cur" x="392" y="238" width="9" height="19" fill="#3fb950"/>
+        <text x="40" y="254" class="dim">motion</text>
+        <text x="180" y="254" class="val">Framer Motion · Remotion</text>
+        <rect class="cur" x="435" y="238" width="9" height="19" fill="#3fb950"/>
       </g>
     </g>
 

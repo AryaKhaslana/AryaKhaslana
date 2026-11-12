@@ -11,12 +11,11 @@
       
       /* Subtle Animations */
       @keyframes pulse-dot { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.2); } }
-      @keyframes pan-gradient { 0% { background-position: 0% 50%; } 100% { background-position: 100% 50%; } }
       @keyframes float-up { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-3px); } }
 
       .card-bg { fill: #121214; stroke: #27272A; stroke-width: 1; rx: 12; }
       .badge-bg { fill: #18181B; stroke: #27272A; stroke-width: 1; rx: 6; }
-      .graph-line { fill: none; stroke: #3B82F6; stroke-width: 2; opacity: 0.7; stroke-linecap: round; }
+      .graph-line { fill: none; stroke: #10B981; stroke-width: 2; opacity: 0.8; stroke-linecap: round; }
     </style>
 
     <!-- Refined Gradients -->
@@ -25,9 +24,9 @@
       <stop offset="100%" stop-color="#09090B" stop-opacity="1" />
     </linearGradient>
     
-    <linearGradient id="blue-glow" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.15" />
-      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0" />
+    <linearGradient id="emerald-glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0" />
     </linearGradient>
 
     <!-- Faint Dot Grid for Background Detail -->
@@ -42,70 +41,70 @@
 
   <!-- Title Section -->
   <text x="40" y="40" class="font-sans text-title" style="font-size: 20px;">Featured Engineering</text>
-  <text x="40" y="60" class="font-sans text-desc">Selected works across full-stack development and system architecture.</text>
+  <text x="40" y="60" class="font-sans text-desc">Selected works across systems architecture, microservices, and modern UI.</text>
 
-  <!-- ==================== BENTO CARD 1: ISCI-OrienaWeb (Left Large) ==================== -->
+  <!-- ==================== BENTO CARD 1: DevPulse (Left Large) ==================== -->
   <g transform="translate(40, 90)">
     <rect width="420" height="230" class="card-bg" fill="url(#card-grad)" />
     
-    <text x="30" y="40" class="font-sans text-tiny">Frontend Architecture</text>
-    <text x="30" y="65" class="font-sans text-title">ISCI-OrienaWeb</text>
-    <text x="30" y="85" class="font-sans text-desc">Neo-brutalism e-commerce frontend</text>
-    <text x="30" y="105" class="font-sans text-desc">engineered for an artisan bakery brand.</text>
+    <text x="30" y="40" class="font-sans text-tiny">Systems &amp; DevOps Microservice</text>
+    <text x="30" y="65" class="font-sans text-title">DevPulse</text>
+    <text x="30" y="85" class="font-sans text-desc">Headless developer work ledger &amp; crash watchdog</text>
+    <text x="30" y="105" class="font-sans text-desc">with native Docker socket &amp; automated ACID reporting.</text>
     
     <!-- Status Indicator -->
     <g transform="translate(30, 195)">
       <circle cx="5" cy="5" r="4" fill="#10B981" />
       <circle cx="5" cy="5" r="4" fill="#10B981" style="animation: pulse-dot 3s infinite; transform-origin: 5px 5px;" />
-      <text x="16" y="9" class="font-sans text-tiny" style="fill: #10B981;">PRODUCTION READY</text>
+      <text x="16" y="9" class="font-sans text-tiny" style="fill: #10B981;">SYSTEM ACTIVE · ZERO BLOAT</text>
     </g>
 
     <!-- Tech Badges -->
     <g transform="translate(30, 130)">
-      <rect width="55" height="24" class="badge-bg" />
-      <text x="27.5" y="16" text-anchor="middle" class="font-sans text-badge">React</text>
+      <rect width="65" height="24" class="badge-bg" />
+      <text x="32.5" y="16" text-anchor="middle" class="font-sans text-badge">Go 1.22</text>
       
-      <rect x="65" width="75" height="24" class="badge-bg" />
-      <text x="102.5" y="16" text-anchor="middle" class="font-sans text-badge">Tailwind</text>
+      <rect x="75" width="70" height="24" class="badge-bg" />
+      <text x="110" y="16" text-anchor="middle" class="font-sans text-badge">Docker</text>
       
-      <rect x="150" width="105" height="24" class="badge-bg" />
-      <text x="202.5" y="16" text-anchor="middle" class="font-sans text-badge">Framer Motion</text>
+      <rect x="155" width="90" height="24" class="badge-bg" />
+      <text x="200" y="16" text-anchor="middle" class="font-sans text-badge">PostgreSQL</text>
     </g>
 
-    <!-- Abstract Graph Decoration -->
-    <g transform="translate(250, 130)" style="animation: float-up 6s ease-in-out infinite;">
-      <path d="M 0 50 Q 40 10, 80 40 T 150 20" class="graph-line" />
-      <path d="M 0 50 Q 40 10, 80 40 T 150 20 L 150 80 L 0 80 Z" fill="url(#blue-glow)" />
-      <circle cx="150" cy="20" r="3" fill="#3B82F6" />
+    <!-- Abstract Pulse Wave Graph -->
+    <g transform="translate(260, 130)" style="animation: float-up 6s ease-in-out infinite;">
+      <path d="M 0 50 Q 25 15, 50 45 T 85 20 T 115 50 T 140 30" class="graph-line" />
+      <path d="M 0 50 Q 25 15, 50 45 T 85 20 T 115 50 T 140 30 L 140 80 L 0 80 Z" fill="url(#emerald-glow)" />
+      <circle cx="140" cy="30" r="3" fill="#10B981" />
     </g>
   </g>
 
-  <!-- ==================== BENTO CARD 2: Sole District (Top Right) ==================== -->
+  <!-- ==================== BENTO CARD 2: PocketPulse (Top Right) ==================== -->
   <g transform="translate(480, 90)">
     <rect width="330" height="105" class="card-bg" fill="url(#card-grad)" />
     
-    <text x="25" y="30" class="font-sans text-tiny">Monorepo System</text>
-    <text x="25" y="52" class="font-sans text-title">sole-district</text>
-    <text x="25" y="72" class="font-sans text-desc">Full-stack sneaker platform with</text>
-    <text x="25" y="88" class="font-sans text-desc">secure auth &amp; dynamic catalog.</text>
+    <text x="25" y="30" class="font-sans text-tiny">Fintech Microservice</text>
+    <text x="25" y="52" class="font-sans text-title">PocketPulse</text>
+    <text x="25" y="72" class="font-sans text-desc">Chat-first personal finance ledger with</text>
+    <text x="25" y="88" class="font-sans text-desc">atomic settlement, allowance &amp; Mini App.</text>
 
     <!-- Mini Server Activity Blocks -->
     <g transform="translate(260, 25)">
       <rect x="0" y="0" width="8" height="25" rx="2" fill="#27272A" />
-      <rect x="12" y="10" width="8" height="15" rx="2" fill="#3B82F6" />
+      <rect x="12" y="10" width="8" height="15" rx="2" fill="#10B981" />
       <rect x="24" y="5" width="8" height="20" rx="2" fill="#27272A" />
-      <rect x="36" y="15" width="8" height="10" rx="2" fill="#3B82F6" style="animation: pulse-dot 2s infinite alternate;" />
+      <rect x="36" y="12" width="8" height="13" rx="2" fill="#3B82F6" style="animation: pulse-dot 2s infinite alternate;" />
     </g>
   </g>
 
-  <!-- ==================== BENTO CARD 3: Google Hackathon (Bottom Right) ==================== -->
+  <!-- ==================== BENTO CARD 3: ISCI-OrienaWeb (Bottom Right) ==================== -->
   <g transform="translate(480, 215)">
     <rect width="330" height="105" class="card-bg" fill="url(#card-grad)" />
     
-    <text x="25" y="30" class="font-sans text-tiny">AI Integration</text>
-    <text x="25" y="52" class="font-sans text-title">Google-Hackathon</text>
-    <text x="25" y="72" class="font-sans text-desc">Web app themed "Convertlaravel"</text>
-    <text x="25" y="88" class="font-sans text-desc">built for the Google Hackathon.</text>
+    <text x="25" y="30" class="font-sans text-tiny">Frontend Architecture</text>
+    <text x="25" y="52" class="font-sans text-title">ISCI-OrienaWeb</text>
+    <text x="25" y="72" class="font-sans text-desc">Neo-brutalism e-commerce frontend</text>
+    <text x="25" y="88" class="font-sans text-desc">engineered for an artisan bakery brand.</text>
 
     <!-- Minimalist Commits/Nodes -->
     <g transform="translate(250, 45)">

@@ -20,6 +20,13 @@
 <div align="center">
   <img src="./bento.svg" alt="System Architecture Dashboard" width="100%" />
 </div>
+<p align="center">
+  <a href="https://github.com/AryaKhaslana/devpulse"><img src="https://img.shields.io/badge/DevPulse-Systems%20%26%20Docker%20Watchdog-10B981?style=flat-square&logo=go&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/AryaKhaslana/PocketPulse"><img src="https://img.shields.io/badge/PocketPulse-Personal%20Finance%20Ledger-3B82F6?style=flat-square&logo=postgresql&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://github.com/AryaKhaslana/ISCI-OrienaWeb"><img src="https://img.shields.io/badge/OrienaWeb-Artisan%20Bakery%20Frontend-F59E0B?style=flat-square&logo=react&logoColor=white" /></a>
+</p>
 <br><br><br>
 
 <div align="center">
